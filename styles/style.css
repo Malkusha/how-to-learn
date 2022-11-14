@@ -130,6 +130,7 @@
 .section-title {
   width: 60%;
   margin: 0;
+  z-index: 1;
   padding-bottom: 20px;
   font-size: 60px;
   font-weight: 600;
